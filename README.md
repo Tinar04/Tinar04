@@ -9,7 +9,7 @@ Currently working on projects in Python, Scikit-learn, and data-driven solutions
 
 ## Projects
 - [Titanic Survival Prediction](https://github.com/Tinar04/titanic_prediction)
-- [House Price Prediction](link-to-repo)
+- [House Price Prediction](https://github.com/Tinar04/house_price_prediction)
 - [Iris Flower Classification](link-to-repo)
 - [Breast Cancer Prediction](link-to-repo)
 
