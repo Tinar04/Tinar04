@@ -8,7 +8,7 @@ Currently working on projects in Python, Scikit-learn, and data-driven solutions
 - **Tools:** GitHub, Jupyter Notebook, Google Colab, VS Code
 
 ## Projects
-- [Titanic Survival Prediction](titanic_survival_prediction.ipynb)
+- [Titanic Survival Prediction](https://github.com/Tinar04/titanic_prediction)
 - [House Price Prediction](link-to-repo)
 - [Iris Flower Classification](link-to-repo)
 - [Breast Cancer Prediction](link-to-repo)
