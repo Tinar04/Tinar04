@@ -1,17 +1,16 @@
-# Hi there
-
-I'm a final-year Computer Science student passionate about AI and Machine Learning.
+# Hi, I'm Tina 👋
+I'm a final-year Computer Science student passionate about AI and Machine Learning.  
 Currently working on projects in Python, Scikit-learn, and data-driven solutions.
 
-## skills
--**Langauges:** Python
+## Skills
+- **Languages:** Python
 - **ML Libraries:** NumPy, Pandas, Scikit-learn
 - **Tools:** GitHub, Jupyter Notebook, Google Colab, VS Code
 
 ## Projects
-- [Titanic Survival Prediction]()
-- [House Price Prediction]()
-- [Iris Flower Classification]()
-- [Breast Cancer Prediction]()
+- [Titanic Survival Prediction](link-to-repo)
+- [House Price Prediction](link-to-repo)
+- [Iris Flower Classification](link-to-repo)
+- [Breast Cancer Prediction](link-to-repo)
 
 📫 Reach me at: rathoretina76@gmail.com
