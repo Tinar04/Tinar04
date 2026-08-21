@@ -1,5 +1,5 @@
 # Hi, I'm Tina 👋
-I'm a final-year Computer Science student passionate about AI and Machine Learning.  
+I'M Computer Science graduate passionate about AI and Machine Learning.  
 Currently working on projects in Python, Scikit-learn, and data-driven solutions.
 
 ## Skills
