@@ -11,6 +11,7 @@ Computer Science graduate (2026) building full-stack web applications with Pytho
 - **Tools:** Git/GitHub, Postman, VS Code
 
 ## Projects
+- [Daily Practice](https://github.com/Tinar04/daily-practice) — Ongoing daily coding practice: student management system, data validator, todo list, and other small projects.
 - [Employee Management System](link) — Django, MySQL | Role-based access control, relational DB design
 - [Expense Splitter](link) — Django, DRF, React, JWT | REST API with debt-simplification algorithm
 - [Weather App](link) — React, Django, REST API
