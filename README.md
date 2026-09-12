@@ -1,16 +1,18 @@
-# Hi, I'm Tina 👋
-I'M Computer Science graduate passionate about AI and Machine Learning.  
-Currently working on projects in Python, Scikit-learn, and data-driven solutions.
+Hi, I'm Tina 👋
+
+Computer Science graduate (2026) building full-stack web applications with Python, Django, and React.
 
 ## Skills
-- **Languages:** Python
-- **ML Libraries:** NumPy, Pandas, Scikit-learn
-- **Tools:** GitHub, Jupyter Notebook, Google Colab, VS Code
+- **Languages:** Python, JavaScript
+- **Backend:** Django, Django REST Framework (DRF)
+- **Frontend:** React.js, HTML, CSS
+- **Database:** MySQL, SQL
+- **API Development:** RESTful APIs, JWT authentication, CORS
+- **Tools:** Git/GitHub, Postman, VS Code
 
 ## Projects
-- [Titanic Survival Prediction](https://github.com/Tinar04/titanic_prediction)
-- [House Price Prediction](https://github.com/Tinar04/house_price_prediction)
-- [Iris Flower Classification](https://github.com/Tinar04/iris_flower_prediction)
-- [Breast Cancer Prediction](https://github.com/Tinar04/cancer_prediction)
+- [Employee Management System](link) — Django, MySQL | Role-based access control, relational DB design
+- [Expense Splitter](link) — Django, DRF, React, JWT | REST API with debt-simplification algorithm
+- [Weather App](link) — React, Django, REST API
 
 📫 Reach me at: rathoretina76@gmail.com
