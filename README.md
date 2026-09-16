@@ -9,6 +9,7 @@ Computer Science graduate (2026) building full-stack web applications with Pytho
 - **Database:** MySQL, SQL
 - **API Development:** RESTful APIs, JWT authentication, CORS
 - **Tools:** Git/GitHub, Postman, VS Code
+- **Problem solving:** Data Structures and algorithm
 
 ## Projects
 - [Daily Practice](https://github.com/Tinar04/daily-practice) — Ongoing daily coding practice: student management system, data validator, todo list, and other small projects.
