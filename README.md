@@ -14,7 +14,7 @@ Computer Science graduate (2026) building full-stack web applications with Pytho
 ## Projects
 - [Daily Practice](https://github.com/Tinar04/daily-practice) — Ongoing daily coding practice: student management system, data validator, todo list, and other small projects.
 - [Employee Management System](https://github.com/Tinar04/daily-practice/tree/master/Employee%20Manager/Employee_manager) — Django, MySQL | Role-based access control, relational DB design
-- [Expense Splitter](link) — Django, DRF, React, JWT | REST API with debt-simplification algorithm
+- [Expense Splitter](https://github.com/Tinar04/expense_splitter) — Django, DRF, React, JWT | REST API with debt-simplification algorithm
 - [Weather App](link) — React, Django, REST API
 
 📫 Reach me at: rathoretina76@gmail.com
